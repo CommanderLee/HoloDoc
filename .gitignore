@@ -5,6 +5,8 @@
 [Bb]uilds/
 Assets/AssetStoreTools*
 
+HoloDoc-LTS/App/
+
 # Visual Studio cache directory
 .vs/
 
