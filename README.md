@@ -10,6 +10,11 @@ This repo contains the source code of [HoloDoc: Enabling Mixed Reality Workspace
 * [HoloLensARToolKit](https://github.com/qian256/HoloLensARToolKit)
 * [NeoSDK (UWP)](https://github.com/NeoSmartpen/UWP-SDK)
 
+## Third-party libraries/services required for certain functions
+* [PDF Renderer](https://assetstore.unity.com/packages/tools/gui/pdf-renderer-32815)
+* [Microsoft Azure](https://azure.microsoft.com/)
+* [YouTube Video Player](https://assetstore.unity.com/packages/tools/video/youtube-video-player-youtube-api-v3-29704)
+
 ## Compatibility
 Tested with:
 * Unity 2017 LTS (v2017.4.20f1)
